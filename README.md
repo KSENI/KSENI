@@ -8,6 +8,8 @@ This GitHub is primarily used as a repository for random code from courses, test
 
 ⚡ Fun fact: Achieved 8th place out of 3,000 participants in a software testing challenge.
 
+📫 How to reach me: https://www.linkedin.com/in/kseniia-pamberg/
+
 <!--
 **KSENI/KSENI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
