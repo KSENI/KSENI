@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on sdfsdf
-- 🌱 I’m currently learning dfsdf
+🔭 I’m currently working on sdfsdf
+🌱 I’m currently learning dfsdf
 - 👯 I’m looking to collaborate on dfsdf
 - 🤔 I’m looking for help with ... dfsdf
 - 💬 Ask me about ... sdfsdf
