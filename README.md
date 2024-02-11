@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... dsdf
 - ⚡ Fun fact: ... dsfsdf
 -->
+
+🔭 I’m currently working on sdfsdf
+🌱 I’m currently learning dfsdf
 lwejfklejf klsjdfklsdjfk jklsdjfklsdjkf
